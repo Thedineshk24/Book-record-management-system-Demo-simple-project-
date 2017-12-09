@@ -1,2 +1,3 @@
 # Book-record-management-system-Demo-simple-project-
 This project describe a Book record management system Demo(simple project)
+also this project contains a book.sql file if u want to import it in your wamp/xamapp...........
